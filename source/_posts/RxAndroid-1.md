@@ -1,7 +1,9 @@
 ---
 title: RxJava 学习笔记 1
 date: 2016-06-07 15:40:53
-tags: Android
+tags: 
+   - Android
+categories: Android
 ---
 
 ### RxJava 是什么？
